@@ -1,5 +1,7 @@
 # Unity-CarGame
 
+![]img(./gamescr.png)
+
 This is a simple car game implementation on Unity software.
 Due to huge data size on `Library` subdirectory it is zipped on the corresponding directory.In order to test, firstly unzip this directory.
 This is not a standard approach as usually these files are tracked using `GIT LFS`.But for ease of use I just zipped them.
